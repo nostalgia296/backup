@@ -1,4 +1,4 @@
-//简单实现的一个Promise,用于理解Promuse
+//简单实现的一个Promise,用于理解Promise
 
 function Promise(executor) {
 
