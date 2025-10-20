@@ -1,4 +1,4 @@
 这里用来放一些浏览器脚本吧
 | 脚本名称         | 功能描述                 | GreasyFork 链接                                                                 |
 |------------------|--------------------------|----------------------------------------------------------------------------------|
-| Touchgal自动跳转 | 跳过跳转网盘的5s等待     | [GreasyFork链接](https://greasyfork.org/zh-CN/scripts/471802-repo1-maven-org-helper) |
+| Touchgal自动跳转 | 跳过跳转网盘的5s等待     | [GreasyFork链接](https://greasyfork.org/zh-CN/scripts/532618-touchgal-自动跳转) |
